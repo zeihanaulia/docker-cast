@@ -1,0 +1,8 @@
+# nodejs
+node_modules/
+
+# python
+.mypy_cache/
+
+# php
+vendor/
